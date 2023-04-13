@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d342d97c-7cc1-4874-8d6f-793195665c92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/BaseMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/BootStrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/ServiceMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/Sunnet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/concurrentComponent/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/concurrentComponent/ProcessorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/concurrentComponent/ProducerAndConsumerComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yejunyu/sunnet/concurrentComponent/Test1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="l7ioacrb" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I20EFbnUlWlDMRcOGbHE8EaTq0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/idea/dubbo-samples&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.kotlinCompiler&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.BootStrap">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejunyu.sunnet.concurrentComponent.A" />
+      <module name="sunnet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejunyu.sunnet.concurrentComponent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootStrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejunyu.sunnet.BootStrap" />
+      <module name="sunnet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejunyu.sunnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.yejunyu.sunnet.Main1" />
+      <module name="sunnet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejunyu.sunnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejunyu.sunnet.Worker" />
+      <module name="sunnet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejunyu.sunnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.yejunyu.sunnet.A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejunyu.sunnet.A" />
+      <module name="sunnet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejunyu.sunnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.A" />
+      <item itemvalue="Application.BootStrap" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Worker" />
+      <item itemvalue="Application.com.yejunyu.sunnet.A" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BootStrap" />
+        <item itemvalue="Application.com.yejunyu.sunnet.A" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Worker" />
+        <item itemvalue="Application.A" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d342d97c-7cc1-4874-8d6f-793195665c92" name="Changes" comment="" />
+      <created>1669364259555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669364259555</updated>
+      <workItem from="1669364260966" duration="424000" />
+      <workItem from="1669364694296" duration="11000" />
+      <workItem from="1669622791742" duration="1000" />
+      <workItem from="1669622918374" duration="1317000" />
+      <workItem from="1669634453887" duration="741000" />
+      <workItem from="1669641862860" duration="34000" />
+      <workItem from="1672480789447" duration="603000" />
+      <workItem from="1675267124154" duration="40000" />
+      <workItem from="1675345750163" duration="2094000" />
+      <workItem from="1675608503167" duration="1970000" />
+      <workItem from="1676177273510" duration="15572000" />
+      <workItem from="1676217014429" duration="9000" />
+      <workItem from="1676556585763" duration="1469000" />
+      <workItem from="1677078293229" duration="2479000" />
+      <workItem from="1677083102091" duration="483000" />
+      <workItem from="1677162315888" duration="3150000" />
+      <workItem from="1677396582340" duration="21000" />
+      <workItem from="1678459041854" duration="2335000" />
+      <workItem from="1678505255778" duration="47000" />
+      <workItem from="1678537291854" duration="1392000" />
+      <workItem from="1678590942586" duration="1335000" />
+      <workItem from="1678624715193" duration="3314000" />
+      <workItem from="1678804765697" duration="443000" />
+      <workItem from="1679357457955" duration="1599000" />
+      <workItem from="1680014044423" duration="5634000" />
+      <workItem from="1681223989934" duration="27000" />
+      <workItem from="1681310398076" duration="698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
